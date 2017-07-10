@@ -1,0 +1,23 @@
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+font-family: 'Roboto', sans-serif;
+}
+
+body, .navbar-pencil, .jumbotron {
+  background-color: #F2F1ED;
+}
+
+footer {
+  background-color: #D76F6E;
+}
+
+.btn-pencil {
+  border: 1px solid #FFC334;
+  background-color: #FFC334;
+}
+
+.btn-pencil2 {
+  border: 1px solid #FFC334;
+}
