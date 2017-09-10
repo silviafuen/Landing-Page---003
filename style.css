@@ -1,0 +1,40 @@
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+p {
+font-family: 'Roboto', sans-serif;
+font-size: 135%;
+}
+
+body, .navbar-pencil, .jumbotron {
+  background-color: #F2F1ED;
+}
+
+footer {
+  background-color: #D76F6E;
+}
+section {
+  background-color: #fff;
+}
+
+.fold {
+  padding-bottom: 10%%;
+}
+
+.btn-pencil {
+  border: 3px solid #FFC334;
+  background-color: #FFC334;
+  width: 50%;
+}
+
+.btn-pencil2 {
+  border: 3px solid #FFC334;
+}
+
+.info {
+  padding-top: 3.5%;
+  padding-bottom: 3.5%;
+}
